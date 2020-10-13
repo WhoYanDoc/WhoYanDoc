@@ -1,0 +1,61 @@
+h1{
+	color: red;
+	font-family: Comic Sans MS;
+	font-size: 60px;
+	text-align: center;
+	margin: 20px auto;
+	border: 10px inset red;
+	border-radius: 20px;
+	background: black;
+	width: 50%;
+}
+h2{
+	color: yellow;
+	font-family: Comic Sans MS;
+	font-size: 40px;
+	text-align: center;
+	margin: 20px auto;
+	border: 10px inset yellow;
+	border-radius: 20px;
+	background: black;
+	width: 24%;
+}
+.div1 {
+	background: black;
+	font-family: Comic Sans MS;
+	border: 10px inset red;
+	border-radius: 20px;
+	color: red;
+	margin: 10px;
+	width: 100px;
+}
+.div3{
+	font-size: 20px;
+	background: #380000;
+	border: 10px inset red;
+	border-radius: 20px;
+	width: 90%;
+	margin: 0 auto;
+}
+.row {
+	width: 100%;
+	display: flex;
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.div-text {
+	flex-grow: 2;
+}
+.div-text a {
+	color: #ffff00;
+}
+.div-img img{
+	height: 320px;
+}
+b{
+	color: yellow;
+}
+p{
+	padding: 5px;
+}

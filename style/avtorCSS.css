@@ -1,0 +1,57 @@
+h1{
+	color: red;
+	font-family: Comic Sans MS;
+	font-size: 60px;
+	text-align: center;
+	margin: 20px auto;
+	border: 10px inset red;
+	border-radius: 20px;
+	background: black;
+	width: 30%;
+}
+.row{
+	display: flex;
+}
+#imga{
+	border: 10px inset red;
+	border-radius: 20px;
+}
+.div-text{
+	background: black;
+	font-family: Comic Sans MS;
+	border: 10px inset red;
+	border-radius: 20px;
+	color: red;
+	margin: 10px;
+	width: 60%;
+	font-size: 20px;
+}
+.div1 {
+	background: black;
+	font-family: Comic Sans MS;
+	border: 10px inset red;
+	border-radius: 20px;
+	color: red;
+	margin: 10px;
+	width: 100px;
+}
+.div-text {
+	flex-grow: 2;
+}
+.div-img {
+	flex-grow: 1;
+}
+p{
+	margin: 5px;
+}
+
+
+.carousele{
+	margin: 10px;
+}
+.carousele div img{
+	width: 900px;
+}
+img{
+	height: 650px;
+}
